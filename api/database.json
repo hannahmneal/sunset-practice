@@ -1,0 +1,80 @@
+{
+    "users": [
+    {
+      "id": 1,
+      "username": "Sunset Chaser",
+      "email": "sunset@gmail.com"
+    }
+  ],
+  "news": [
+    {
+        "id": 200,
+        "userId": 1,
+        "url": "https://local.theonion.com/man-watches-helplessly-as-white-elephant-exchange-compl-1831259433",
+        "title": "Man Watches Helplessly As White Elephant Exchange Completely Devolves Into Friends Just Chatting And Having Nice Time",
+        "synopsis": "CHICAGO—Staring wide-eyed at the table full of unopened presents being largely ignored by guests, local man Rick Joseph reportedly watched helplessly Friday as the White Elephant exchange completely..."
+    },
+    {
+    "id": 201,
+    "userId": 2,
+    "url": " ",
+    "title": " ",
+    "synopsis": " "
+    }
+  ],
+  "events": [
+    {
+    "id": 300,
+    "userId": 1,
+    "datetime": "Jan 25, 2019",
+    "location": "Vanderbilt Wondr'y",
+    "name": "Nashville Game Developers"
+    },
+    {
+    "id": 400,
+    "userId": 1,
+    "datetime": "Jan 16, 2019, 6:00 PM",
+    "location": "NSS",
+    "name": "Meeple Mountain Game Night"
+    },
+    {
+    "id": "",
+    "userId": "",
+    "datetime": " ",
+    "location": " ",
+    "name": " "
+    }
+  ],
+  "tasks": [
+    {
+    "id": 400,
+    "userId": 1,
+    "task": "Sunset-App",
+    "isComplete": true,
+    "isDue": "Tuesday, Jan 15, 2019"
+    },
+    {
+    "id": "",
+    "userId": "",
+    "task": " ",
+    "isComplete": true,
+    "isDue": " "
+    }
+  ],
+  "friends": [
+    {
+    "connectionId": 500,
+    "userId": 1,
+    "otherFriendId": 600
+    }
+  ],
+  "messages": [
+    {
+    "id": "",
+    "userId": "",
+    "url": "string",
+    "title": "string",
+    "synposis": "string"
+    }
+  ]
+}
